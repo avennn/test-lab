@@ -1,0 +1,16 @@
+{
+    "name": "vue-reactive",
+    "description": "测试 vue 的 reactive",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@vue/reactivity": "^3.0.5"
+    }
+}
